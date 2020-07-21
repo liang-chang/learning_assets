@@ -4,5 +4,7 @@
 
 [《剑指Offer》第二版源代码] [https://github.com/zhedahht/CodingInterviewChinese2](https://github.com/zhedahht/CodingInterviewChinese2)
 
+[ 算法题 ] [https://greyireland.gitbook.io/algorithm-pattern/](https://greyireland.gitbook.io/algorithm-pattern/)
+
 
 
