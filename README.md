@@ -29,3 +29,4 @@
 
 [编程、语言、测试、网格书籍]  [https://github.com/guanpengchn/awesome-books](https://github.com/guanpengchn/awesome-books)
 
+[经典技术书籍 PDF 文件] [https://awesome-programming-books.github.io/] (https://awesome-programming-books.github.io/)
